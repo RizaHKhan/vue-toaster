@@ -27,5 +27,23 @@
   "dependencies": {
     "stylus": "~0.54.8",
     "stylus-loader": "~3.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-unit-jest": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/test-utils": "^2.0.0-rc.4",
+    "babel-eslint": "^10.1.0",
+    "core-js": "^3.6.5",
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.13.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^7.0.0-0",
+    "prettier": "^2.1.2",
+    "vue": "^3.0.11",
+    "vue-jest": "^5.0.0-0",
+    "vue-loader": "^15.9.3"
   }
 }
